@@ -1,2 +1,4 @@
 PythonVisualizations/* linguist-vendored
 AudioSamples/* linguist-vendored
+*.cpp linguist-detectable=true
+*.h linguist-language=cpp
