@@ -1,4 +1,3 @@
-PythonVisualizations/* linguist-vendored
 AudioSamples/* linguist-vendored
 *.ipynb linguist-detectable=true
 *.cpp linguist-detectable=true
