@@ -1,5 +1,5 @@
 # Reverberation_Room_Repo
-University Of Sussex Dissertation Graded 72% . This demonstrates a very rough and ready working prototype of a ray traced reverberation chamber. 
+This demonstrates a very rough and ready working prototype of a ray traced reverberation chamber. 
 
 Please contact me for the buildable source code (VS2019 project) as it is too large to store on github.
 
